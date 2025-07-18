@@ -2,6 +2,12 @@
 
 My name is Luiz Guilherme de Souza Mo and i´m currently on first semester of Computer Science at Federal University of Paraná. 
 
-I’m currently learning Pascal.
+I’m currently learning HMTL and CSS
 
-![Pascal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Free_Pascal_Logo.svg/320px-Free_Pascal_Logo.svg.png)
+Main languages:
+
+
+
+<img src="./Pascal_icon.png" width="60"/>
+
+
