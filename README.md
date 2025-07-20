@@ -4,6 +4,8 @@ My name is Luiz Guilherme de Souza Mo and i´m currently on first semester of Co
 
 I’m currently learning HMTL and CSS
 
+<hr>
+
 Main languages:
 
 
