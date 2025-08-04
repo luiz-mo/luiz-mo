@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Luiz Guilherme de Souza Mo and i´m currently on first semester of Computer Science at Federal University of Paraná. 
+My name is Luiz Guilherme de Souza Mo and i´m currently on the second semester of Computer Science at Federal University of Paraná. 
 
-I’m currently learning HMTL and CSS
+I’m currently learning HMTL,CSS and C.
 
 <hr>
 
