@@ -10,7 +10,12 @@ I’m currently learning <EM>C, Assembly.</EM>
 
 <div>
   <img src="./Pascal_icon.png" width="50"/>
-  <img src="https://skillicons.dev/icons?i=c,linux,github,assembly&theme=dark&perline=4" alt="C, Linux, GitHub, Assembly logos" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark&perline=4" alt="C logo" />
+</div>
+
+### Main tools
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,github,vim&theme=dark&perline=4" alt="Linux, GitHub, Vim logos" />
 </div>
 
 ### Stats
