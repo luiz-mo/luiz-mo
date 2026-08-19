@@ -1,8 +1,8 @@
 ## Hi there &#x1F44B;
 
-My name is Luiz Guilherme de Souza Mo and i´m currently on the third semester of Computer Science at Federal University of Paraná. 
+My name is Luiz Guilherme de Souza Mo and i´m currently on the fourth semester of Computer Science at Federal University of Paraná. 
 
-I’m currently learning <EM>C, Assembly.</EM>
+I’m currently learning <EM>Haskell, Assembly, Java.</EM>
 
 <hr>
 
