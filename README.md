@@ -9,8 +9,7 @@ I’m currently learning <EM>Haskell, Assembly, Java.</EM>
 ### Main languages:
 
 <div>
-  <img src="./Pascal_icon.png" width="50"/>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark&perline=4" alt="C logo" />
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,php,laravel,haskell&theme=dark&perline=4" alt="C logo" />
 </div>
 
 ### Main tools
